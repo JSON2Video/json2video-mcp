@@ -2,7 +2,7 @@
 
 <img src="assets/logo.svg" alt="JSON2Video" width="72" align="right">
 
-Official [Model Context Protocol](https://modelcontextprotocol.io/) server for **[JSON2Video](https://json2video.com)**, the video API for automated video production at scale.
+Official [Model Context Protocol](https://modelcontextprotocol.io/) server for **[JSON2Video](https://json2video.com/?utm_source=github&utm_medium=mcp-directory&utm_campaign=mcp-listing)**, the video API for automated video production at scale.
 
 Connect your AI agent (Claude, Cursor, VS Code, Windsurf, Cline…) to JSON2Video and let it produce finished MP4 videos: build a video from reusable templates, add AI voiceovers, subtitles, AI-generated images and video, render it in the cloud and get back a URL you can publish.
 
@@ -21,7 +21,7 @@ Listed in the official MCP Registry as `com.json2video/mcp`.
 ## Requirements
 
 - Node.js 20 or later
-- A JSON2Video API key. [Sign up for free](https://json2video.com/get-api-key/) and copy the key from the [dashboard](https://json2video.com/dashboard).
+- A JSON2Video API key. [Sign up for free](https://json2video.com/get-api-key/?utm_source=github&utm_medium=mcp-directory&utm_campaign=mcp-listing) and copy the key from the [dashboard](https://json2video.com/dashboard/?utm_source=github&utm_medium=mcp-directory&utm_campaign=mcp-listing).
 
 ## Installation
 
@@ -88,7 +88,7 @@ Add this to `.vscode/mcp.json`:
 }
 ```
 
-Restart your client after saving. Full instructions for every editor: [MCP server documentation](https://json2video.com/docs/v2/help-for-ai-agents/mcp-server).
+Restart your client after saving. Full instructions for every editor: [MCP server documentation](https://json2video.com/docs/v2/help-for-ai-agents/mcp-server?utm_source=github&utm_medium=mcp-directory&utm_campaign=mcp-listing).
 
 ## Tools
 
@@ -120,16 +120,16 @@ The plugin and the configs above run `npx -y @json2video/cli mcp run`. `npx` dow
 | `JSON2VIDEO_API_KEY` | Yes | Your JSON2Video API key. |
 | `JSON2VIDEO_TIMEOUT` | No | Maximum time to wait for a render, in seconds (default 240). |
 
-Renders use the credits of your JSON2Video account. Free accounts include credits to try it out; see [pricing](https://json2video.com/pricing/).
+Renders use the credits of your JSON2Video account. Free accounts include credits to try it out; see [pricing](https://json2video.com/pricing/?utm_source=github&utm_medium=mcp-directory&utm_campaign=mcp-listing).
 
 ## Resources
 
-- [JSON2Video](https://json2video.com)
-- [Documentation](https://json2video.com/docs/v2/)
-- [MCP server guide](https://json2video.com/docs/v2/help-for-ai-agents/mcp-server)
-- [Video editing with Claude Code](https://json2video.com/claude-video/claude-video-editing/)
+- [JSON2Video](https://json2video.com/?utm_source=github&utm_medium=mcp-directory&utm_campaign=mcp-listing)
+- [Documentation](https://json2video.com/docs/v2/?utm_source=github&utm_medium=mcp-directory&utm_campaign=mcp-listing)
+- [MCP server guide](https://json2video.com/docs/v2/help-for-ai-agents/mcp-server?utm_source=github&utm_medium=mcp-directory&utm_campaign=mcp-listing)
+- [Video editing with Claude Code](https://json2video.com/claude-video/claude-video-editing/?utm_source=github&utm_medium=mcp-directory&utm_campaign=mcp-listing)
 - [`@json2video/cli` on npm](https://www.npmjs.com/package/@json2video/cli)
-- Support: the chat on [json2video.com](https://json2video.com)
+- Support: the chat on [json2video.com](https://json2video.com/?utm_source=github&utm_medium=mcp-directory&utm_campaign=mcp-listing)
 
 ## License
 

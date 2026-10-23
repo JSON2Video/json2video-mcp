@@ -3,7 +3,7 @@
 Instructions for AI agents (Cline and similar) installing this server for a user.
 
 1. Check that Node.js 20 or later is available: `node --version`.
-2. Ask the user for their JSON2Video API key. If they do not have one, they can sign up for free at https://json2video.com/get-api-key/ and copy the key from https://json2video.com/dashboard. Never invent a key.
+2. Ask the user for their JSON2Video API key. If they do not have one, they can sign up for free at https://json2video.com/get-api-key/?utm_source=llms-install&utm_medium=mcp-directory&utm_campaign=mcp-listing and copy the key from https://json2video.com/dashboard.?utm_source=llms-install&utm_medium=mcp-directory&utm_campaign=mcp-listing Never invent a key.
 3. Add this entry to the MCP settings file, replacing `YOUR_API_KEY` with the user's key:
 
 ```json

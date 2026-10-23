@@ -2,7 +2,7 @@
   "mcpServers": {
     "json2video": {
       "command": "npx",
-      "args": ["-y", "@json2video/cli@1.1.1", "mcp", "run"],
+      "args": ["-y", "@json2video/cli@1.1.4", "mcp", "run"],
       "env": {
         "JSON2VIDEO_API_KEY": "${user_config.api_key}"
       }
