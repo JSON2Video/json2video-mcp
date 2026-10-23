@@ -1,0 +1,28 @@
+{
+  "name": "json2video",
+  "displayName": "JSON2Video",
+  "version": "1.1.1",
+  "description": "Video API for automated video production at scale. Render videos from templates with AI voiceovers, subtitles and AI images, check render status, manage templates and media.",
+  "author": {
+    "name": "JSON2Video",
+    "url": "https://json2video.com"
+  },
+  "homepage": "https://json2video.com",
+  "repository": "https://github.com/JSON2Video/json2video-mcp",
+  "license": "MIT",
+  "keywords": ["video", "video-api", "video-automation", "templates", "text-to-speech", "subtitles", "mcp"],
+  "icon": "./logo.png",
+  "documentationUrl": "https://json2video.com/docs/v2/help-for-ai-agents/mcp-server",
+  "supportUrl": "https://json2video.com/contact-us/",
+  "privacyPolicyUrl": "https://json2video.com/legal/privacy-policy.html",
+  "termsOfServiceUrl": "https://json2video.com/legal/terms-of-use.html",
+  "userConfig": {
+    "api_key": {
+      "type": "string",
+      "title": "JSON2Video API key",
+      "description": "Your JSON2Video API key. Get one for free at https://json2video.com/get-api-key/",
+      "sensitive": true,
+      "required": true
+    }
+  }
+}

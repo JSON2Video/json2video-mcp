@@ -1,0 +1,15 @@
+{
+  "name": "json2video",
+  "description": "Official JSON2Video plugins for Claude Code.",
+  "owner": {
+    "name": "JSON2Video",
+    "url": "https://json2video.com"
+  },
+  "plugins": [
+    {
+      "name": "json2video",
+      "source": "./",
+      "description": "Video API for automated video production at scale: templates, AI voiceovers, subtitles, AI images."
+    }
+  ]
+}
