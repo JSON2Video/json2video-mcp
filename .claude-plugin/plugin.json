@@ -1,7 +1,7 @@
 {
   "name": "json2video",
   "displayName": "JSON2Video",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "description": "Video API for automated video production at scale. Render videos from templates with AI voiceovers, subtitles and AI images, check render status, manage templates and media.",
   "author": {
     "name": "JSON2Video",
